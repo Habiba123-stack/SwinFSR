@@ -40,11 +40,11 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 
 
 ## 🚀 Training
-- **4× Super-Resolution**
-python train_swinfsr.py --opt options/swinfsr/train_swinfsr_sr_celeba_x4.json
+4× Super-Resolution
+- **python train_swinfsr.py --opt options/swinfsr/train_swinfsr_sr_celeba_x4.json**
 
-- **8× Super-Resolution**
-python train_swinfsr.py --opt options/swinfsr/train_swinfsr_sr_celeba_x8.json
+8× Super-Resolution
+- **python train_evaluate_swinfsr.py --opt options/swinfsr/train_swinfsr_x8.json**
 
 ---
 
@@ -62,25 +62,24 @@ python train_swinfsr.py --opt options/swinfsr/train_swinfsr_sr_celeba_x8.json
 
 ## 🔍 Testing / Inference
 
-python test_swinfsr.py --opt options/swinfsr/train_swinfsr_sr_celeba_x4.json --save_results
+- **python train_evaluate_swinfsr.py --opt option/swinfsr/train_swinfsr_x4.json --save_results**
 
 
-- **Results are stored in:**
+Results are stored in
 
-supperresolution/images
+- **supperresolution/images**
 
 
 You may also test on any custom LR image folder.
 
 ## 📊 Evaluation Metrics
+SwinFSR uses standard metrics in the face SR literature:**
 
-- **SwinFSR uses standard metrics in the face SR literature:**
+- **PSNR (Y-channel)**
 
-PSNR (Y-channel)
+- **SSIM (Y-channel)**
 
-SSIM (Y-channel)
-
-LPIPS (RGB) using AlexNet backbone
+- **LPIPS (RGB) using AlexNet backbone**
 
 
 
