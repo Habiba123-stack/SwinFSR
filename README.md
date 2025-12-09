@@ -23,6 +23,8 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 
 ## 🧱 Methodology Diagram
 
+![SwinFSR Methodology](Methodology_Research.png)
+
 ---
 
 
