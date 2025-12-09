@@ -35,17 +35,12 @@ It integrates dense landmark heatmaps with hierarchical shifted-window attention
 
 ## 🔥 Key Features
 
-Landmark-Guided SR: Injects geometric priors using 5-point Gaussian heatmaps
-
-Transformer Backbone: Swin Transformer with 6 Residual Swin Transformer Blocks (RSTBs)
-
-Multiscale SR: Supports 4× (32→128) and 8× (16→128) upscaling
-
-Identity Preservation: Maintains consistent geometry around eyes, lips & nose
-
-Efficient Training: Lightweight and optimized for single-GPU setups
-
-Evaluation Metrics: PSNR (Y), SSIM (Y), LPIPS (RGB)
+## 🔥 Key Features
+- **Landmark-Guided Input:** 8-channel input (RGB + 5 Gaussian landmark heatmaps)  
+- **Transformer Backbone:** Swin Transformer with 6 Residual Swin Transformer Blocks (RSTBs)  
+- **Multi-Scale SR:** Supports 4× (32→128) and 8× (16→128)  
+- **Identity Preservation:** Strong geometric and structural consistency  
+- **Evaluation Metrics:** PSNR (Y), SSIM (Y), LPIPS (RGB)
 ---
 
 ## 🧩 Methodology Overview
@@ -59,7 +54,9 @@ PixelShuffle reconstructs the high-resolution output, supported by a bicubic ups
 ## 🖼 Visual Results
 8× Face Super-Resolution (16 → 128)
 
-(You may add 4× results or comparison grids in this section.)
+
+
+
 
 ## 📁 Project Structure
 SwinFSR/
