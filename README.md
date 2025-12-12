@@ -47,6 +47,12 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 
 ![X8 Results](Figures/x4_facial.png)
 
+---
+
+##SwinIFS: Google drive link (Our results)
+
+https://drive.google.com/drive/folders/1XGF8Ky6rK5tNBh9quV2IKi8swDgMB81D?usp=sharing
+
 
 
 
