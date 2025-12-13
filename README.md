@@ -99,13 +99,13 @@ Results are stored in
 You may also test on any custom LR image folder.
 
 ## 📊 Evaluation Metrics
-SwinIFS uses standard metrics in the face SR literature:**
+-**SwinIFS uses standard metrics in the face SR literature:**
 
 - **PSNR (Y-channel)**
 
 - **SSIM (Y-channel)**
 
-- **LPIPS (RGB) using AlexNet backbone**
+- **LPIPS (RGB)**
 
 
 
