@@ -51,7 +51,7 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 
 ## SwinIFS: Google drive link (Our results)
 
-- **https://drive.google.com/drive/folders/1XGF8Ky6rK5tNBh9quV2IKi8swDgMB81D?usp=sharing**
+- **https://drive.google.com/drive/folders/1nTL9X5uftkq30HHlPcxHxRijJLap06E6?usp=sharing**
 
 
 
