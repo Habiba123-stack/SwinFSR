@@ -34,7 +34,7 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 
 8x Face Super resolution with crop facial features
 
-![X8 Results](Figures/x8_facial.png)
+![X8 Results](Figures/x8-facial.png)
 
 ---
 
@@ -45,7 +45,7 @@ PixelShuffle upsampling reconstructs the high-resolution output.
 ---
 4x Face Super resolution with crop facial features
 
-![X8 Results](Figures/x4_facial.png)
+![X8 Results](Figures/x4-facial.png)
 
 ---
 
