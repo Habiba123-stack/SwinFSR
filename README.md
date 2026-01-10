@@ -59,16 +59,6 @@ These are the resulte for 8x (upscaling):
 
 -**https://drive.google.com/drive/folders/1PpKmUwWkZSmsuOMZQc_xHLPRK0-6NJVM?usp=sharing**
 
-## SwinIFS: Model Weights Google drive link:
-
-Download the weights for 4x (upscaling):
-
--**https://drive.google.com/drive/folders/124UlqkJ0A8HQXOfhC5qiQPonyrjgDAow?usp=sharing**
-
-Download the weights for 8x (upscaling):
-
--**https://drive.google.com/drive/folders/17kk7NtzYaNM-OMMmkUe3nBPNj-a9PtV8?usp=sharing**
-
 
 
 
@@ -104,6 +94,19 @@ Download the weights for 8x (upscaling):
 - **Automatic bicubic comparison**
 
 - **Optional saving of SR visual outputs**
+
+---
+
+## SwinIFS: Model Weights Google drive link:
+
+Download the weights for 4x (upscaling):
+
+-**https://drive.google.com/drive/folders/124UlqkJ0A8HQXOfhC5qiQPonyrjgDAow?usp=sharing**
+
+Download the weights for 8x (upscaling):
+
+-**https://drive.google.com/drive/folders/17kk7NtzYaNM-OMMmkUe3nBPNj-a9PtV8?usp=sharing**
+
 
 ## 🔍 Testing / Inference
 
